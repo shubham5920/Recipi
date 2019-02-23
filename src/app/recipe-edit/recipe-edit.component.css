@@ -1,0 +1,5 @@
+
+input.ng-invalid.pristine,
+textarea.ng-invalid.pristine{
+    border:1px solid red
+}
